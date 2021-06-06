@@ -4,7 +4,7 @@ metadata:
   name: guestbook
   namespace: guestbook
 spec:
-  host: guestbook.apps.<your-ocp-cluster-name>.<your-ocp-cluster-domain>
+  host: guestbook.apps.cluster-6cq5t.6cq5t.sandbox1092.opentlc.com
   port:
     targetPort: 80
   to:
