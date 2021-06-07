@@ -28,6 +28,6 @@ spec:
         - name: GET_HOSTS_FROM
           value: env
         - name: REDIS_MASTER_SERVICE_HOST
-          value: redis-master.guestbook.svc.clusterset.local
+          value: aws-us-west-2-c4.redis-master.guestbook.svc.clusterset.local
         ports:
         - containerPort: 6379
