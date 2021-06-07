@@ -4,7 +4,7 @@ metadata:
   name: guestbook
   namespace: guestbook
 spec:
-  host: guestbook.apps.aws-us-west-2-c2.sandbox1092.opentlc.com
+  host: guestbook.apps.aws-us-west-2-c4.sandbox1092.opentlc.com
   port:
     targetPort: 80
   to:
